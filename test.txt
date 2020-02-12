@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 1414-C50C
+
+ Directory of D:\My projects
+
+02/12/2020  03:00 PM    <DIR>          .
+02/12/2020  03:00 PM    <DIR>          ..
+02/12/2020  03:00 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  196,076,089,344 bytes free
